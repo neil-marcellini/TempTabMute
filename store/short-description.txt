@@ -1,0 +1,1 @@
+Mute any tab for a set duration — it unmutes itself automatically. Simple, fast, configurable.

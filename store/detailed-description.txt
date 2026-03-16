@@ -1,0 +1,17 @@
+TempTabMute lets you mute any Chrome tab for a specific amount of time. When the timer runs out, the tab unmutes itself — no need to remember to turn it back on.
+
+HOW IT WORKS
+• Click the TempTabMute icon on any tab
+• Press the Mute button to silence the tab for your chosen duration
+• A live countdown shows exactly when audio will return
+• Need sound back sooner? Hit "Unmute Now" at any time
+
+CUSTOMIZABLE DURATION
+Open Settings right inside the popup to pick from presets (30s, 1 min, 5 min, 15 min, 30 min, 1 hour) or type any custom duration like "1h 3m", "70s", or "90" seconds.
+
+LIGHTWEIGHT & PRIVATE
+• No data collection — everything stays in your browser
+• No background network requests
+• Minimal permissions: only tabs (to mute/unmute), storage (to save your preference), and alarms (to schedule the unmute)
+
+Perfect for temporarily silencing a noisy tab during a meeting, a video call, or when you just need a moment of quiet.
