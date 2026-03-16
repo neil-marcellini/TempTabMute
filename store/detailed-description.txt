@@ -14,4 +14,4 @@ LIGHTWEIGHT & PRIVATE
 • No background network requests
 • Minimal permissions: only tabs (to mute/unmute), storage (to save your preference), and alarms (to schedule the unmute)
 
-Perfect for temporarily silencing a noisy tab during a meeting, a video call, or when you just need a moment of quiet.
+Perfect for muting radio adds, temporarily silencing a noisy tab during a meeting, a video call, or when you just need a moment of quiet.
