@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>TempTabMute</h1>
+    <p id="tab-title" class="tab-title"></p>
+
+    <button id="mute-btn" class="mute-btn">Mute 30s</button>
+
+    <div id="countdown-section" class="countdown-section hidden">
+      <div class="countdown-label">Unmuting in</div>
+      <div id="countdown" class="countdown">--:--</div>
+      <button id="unmute-btn" class="unmute-btn">Unmute Now</button>
+    </div>
+
+    <button id="settings-btn" class="settings-btn">Settings</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
